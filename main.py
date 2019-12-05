@@ -4,7 +4,7 @@ import sys, getopt
 import json
 import requests
 
-expect = 2018
+expect = 2019
 verbose = False
 duration = False
 lastFmToken = ""
